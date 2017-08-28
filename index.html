@@ -63,6 +63,21 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+#card
+{
+  width:30%;
+  margin:0 auto;
+  font-family: 'Electrolize';
+  background-color:LightSkyBlue;
+  padding:10px;
+  border-radius:5px;
+}
+@media (max-width: 800px) { 
+    #card
+    {
+      width:50%;
+    }
+}
   </style>
 </head>
 <body>
@@ -100,7 +115,7 @@
 <div class="parallax" style="background-image: url('./img/origin.jpg');"></div>
 <div class="container-fluid" style="color: black;background-image: url('./img/hero.jpg');background-position: center; ">
 <center><h1 style="color:white">My Story</h1></center><br />
-  <div style="width:25%;margin:0 auto;font-family: 'Electrolize';background-color:LightSkyBlue;padding:10px;border-radius:5px;">
+  <div id="card">
     <h4><b>Secret Identity:</b> <span style="color:red">Classified</span></h4>
     <h4><b>Place of Birth:</b> Ludhiana, Punjab, India, Earth, Solar System, Milky Way Galaxy, Local Group, Virgo Supercluster, Universe</h4>
     <h4><b>Birthday:</b> 5<sup>th</sup> August 1992</h4>
