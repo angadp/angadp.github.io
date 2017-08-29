@@ -97,7 +97,7 @@
 <body>
 
 <!-- Navbar -->
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default" style="z-index: 3">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -117,12 +117,14 @@
   </div>
 </nav>
 <a name="Who"></a>
+<br /><br />
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
-  <h3 class="margin">Who Am I?</h3>
-  <img src="./img/angad.jpg" class="img-responsive img-circle margin" style="display:inline" alt="My Pic" width="350" height="350">
+  <h3 class="margin">Who Am I?</h3><br />
+  <img src="./img/angad.jpg" class="img-responsive img-circle margin" style="display:inline" alt="My Pic" width="350" height="350"><br /><br />
   <h3>Philosophers have been pondering upon that question for centuries. Simple answer for now, </h3>
-  <h3>An engineer currently pursuing Masters in Computer Science(Data Science) at USC.</h3>
+  <h3>An engineer currently pursuing Masters in Computer Science(Data Science) at USC.</h3><br />
+<br /><br />
 </div>
 <a name="Story"></a>
 <!-- Second Container -->
@@ -168,21 +170,50 @@
 <div class="parallax" style="background-image: url('./img/microsoft.jpg');"></div>
 
 <!-- Third Container (Grid) -->
-<div class="container-fluid" style="color: black;background-image: url('./img/laptop.png');background-position: center;background-size:cover;color: white;height:100%;">    
-  <h3 class="margin">Where To Find Me?</h3><br>
+<div class="container-fluid" style="color: black;background-image: url('./img/desktop2.jpg');background-position: center;background-size:cover;color: white;height:100%">
   <div class="row">
-    <div class="col-sm-4">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <img src="birds1.jpg" class="img-responsive margin" style="width:100%" alt="Image">
-    </div>
-    <div class="col-sm-4"> 
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <img src="birds2.jpg" class="img-responsive margin" style="width:100%" alt="Image">
-    </div>
-    <div class="col-sm-4"> 
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <img src="birds3.jpg" class="img-responsive margin" style="width:100%" alt="Image">
-    </div>
+      <div class="col-sm-3" style="background-color: white;color:black;margin:2%;border: 1px solid LightSkyBlue;position: relative;height:650px;">
+        <div style="position: absolute;left:0px;"><img src="./img/notepad_ico.png" style="height:20px;"></div><div style="position: absolute;left:20px;"><h5>Microsoft</h5></div><div style="position: absolute;right:10px;"><h5>X</h5></div><div style="position: absolute;right:45px;top:-1px;"><h5>&#9633;</h5></div><div style="position: absolute;right:80px;"><h5>&minus;</h5></div>
+        <div style="position: absolute;top:30px;left:5px;"><h5>File</h5></div><div style="position: absolute;top:30px;left:40px;"><h5>Edit</h5></div><div style="position: absolute;top:30px;left:80px;"><h5>Format</h5></div><div style="position: absolute;top:30px;left:140px;"><h5>View</h5></div><div style="position: absolute;top:30px;left:180px;"><h5>Help</h5></div>
+
+        <div style="border: 2px solid LightSkyBlue;position: absolute;top: 60px;width: 100%;height: 590px;left:0px;overflow: scroll;">
+          <p>
+            Microsoft, Hyderabad, Telanagana
+          </p>
+          <p>
+            Software Developer
+          </p>
+          <p>June2015 - July2017</p>
+          <p>Maintained the upkeep of the Applications in production, most notably a Visual C# Application for creating Invoices.</p>
+          <p>Took on 2 projects as a part of Build and Automation team- </p>
+          <p>Certificate Management System – A portal for management and automatic renewal of Website Certificates.</p>
+          <p>BCDR Automation – A tool for performing DR between the primary and DR nodes for SQL and web.</p>
+          <p>Worked on 5 projects with the following cycle for each – Coding, Automated Testing, Build and Deploy and Production monitoring. We built new systems from scratch as well as modernized the old platforms.</p>
+        </div>
+      </div>
+      <div class="col-sm-3" style="background-color: white;color:black;margin:2%;border: 1px solid LightSkyBlue;position: relative;height:650px;">
+        <div style="position: absolute;left:0px;"><img src="./img/notepad_ico.png" style="height:20px;"></div><div style="position: absolute;left:20px;"><h5>Freescale Semiconductors</h5></div><div style="position: absolute;right:10px;"><h5>X</h5></div><div style="position: absolute;right:45px;top:-1px;"><h5>&#9633;</h5></div><div style="position: absolute;right:80px;"><h5>&minus;</h5></div>
+        <div style="position: absolute;top:30px;left:5px;"><h5>File</h5></div><div style="position: absolute;top:30px;left:40px;"><h5>Edit</h5></div><div style="position: absolute;top:30px;left:80px;"><h5>Format</h5></div><div style="position: absolute;top:30px;left:140px;"><h5>View</h5></div><div style="position: absolute;top:30px;left:180px;"><h5>Help</h5></div>
+
+        <div style="border: 2px solid LightSkyBlue;position: absolute;top: 60px;width: 100%;height: 590px;left:0px;overflow: scroll;">
+          <p>Freescale Semiconductors, Noida, UP</p>
+          <p>Software Engineering Intern</p>
+          <p>Jan2015 - Jun2015</p>
+          <p>Worked on a low-level API - Network Application Development Kit (NADK), a set of libraries and drivers for fast packet processing.</p>
+          <p>Optimized the memory modules – memzone, memseg, mempool, etc to consume less space and run faster on our hardware. The goal was to achieve router speeds of 100 Gbps.</p>
+        </div>
+      </div>
+      <div class="col-sm-3" style="background-color: white;color:black;margin:2%;border: 1px solid LightSkyBlue;position: relative;height:650px;">
+        <div style="position: absolute;left:0px;"><img src="./img/notepad_ico.png" style="height:20px;"></div><div style="position: absolute;left:20px;"><h5>Winterrain Technologies</h5></div><div style="position: absolute;right:10px;"><h5>X</h5></div><div style="position: absolute;right:45px;top:-1px;"><h5>&#9633;</h5></div><div style="position: absolute;right:80px;"><h5>&minus;</h5></div>
+        <div style="position: absolute;top:30px;left:5px;"><h5>File</h5></div><div style="position: absolute;top:30px;left:40px;"><h5>Edit</h5></div><div style="position: absolute;top:30px;left:80px;"><h5>Format</h5></div><div style="position: absolute;top:30px;left:140px;"><h5>View</h5></div><div style="position: absolute;top:30px;left:180px;"><h5>Help</h5></div>
+        <div style="border: 2px solid LightSkyBlue;position: absolute;top: 60px;width: 100%;height: 590px;left:0px;overflow: scroll;">
+          <p>Winterrain Technologies, Ludhiana, Punjab</p>
+          <p>Software Developer (Part Time)</p>
+          <p>Aug 2014-Dec 2014</p>
+          <p>Worked for a US client, TechBank, to design and implement their mobile buying and reselling business. The solution was end to end, from predicting the price of the phone based on previous trend of buy/sell to finally putting it on Ebay.</p>
+          <p>Integrated with LeadsOnline API to check for thefts and Ebay API for monitoring the current sales. The project also provided Audit report and Business Intelligence reports.</p>
+        </div>
+      </div>
   </div>
 </div>
 
