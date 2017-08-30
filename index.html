@@ -11,6 +11,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Electrolize" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <style>
   body {
       font: 20px Montserrat, sans-serif;
@@ -108,6 +109,18 @@
   background-color: black;
   height:auto;
 }
+.sociallinks
+{
+  color:black;
+}
+.social
+{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 5px;
+  color:black;
+}
 @media (max-width: 800px) { 
     #card
     {
@@ -196,7 +209,7 @@
 <div class="parallax" style="background-image: url('./img/microsoft.jpg');"></div>
 <div class="container-fluid" id="desktop">
   <div class="row">
-  <div class="col-sm-9"style="background-color: white;color:black;margin:2%;border: 1px solid LightSkyBlue;position: relative;height:180px;">
+  <div class="col-sm-9" style="background-color: white;color:black;margin:2%;border: 1px solid LightSkyBlue;position: relative;height:180px;">
 <div style="position: absolute;left:0px;"><img src="./img/paint.png" style="height:20px;"></div><div style="position: absolute;left:20px;"><h5>Work Ex</h5></div><div style="position: absolute;right:10px;"><h5>X</h5></div><div style="position: absolute;right:45px;top:-1px;"><h5>&#9633;</h5></div><div style="position: absolute;right:80px;"><h5>&minus;</h5></div>
         <div style="position: absolute;top:20px;left:0px;;"><h6 style="background-color: #4169E1;color:white;padding:3px;padding-left: 10px;padding-right: 15px;padding-top: 10px;padding-bottom: 7px;">File</h6></div><div style="position: absolute;top:30px;left:50px;"><h6>Home</h6></div><div style="position: absolute;top:30px;left:100px;"><h6>View</h6></div>
 
@@ -250,12 +263,60 @@
   </div>
 </div>
 
+
 <a name="Find"></a>
 <div class="parallax" style="background-image: url('./img/waldo.jpg');"></div>
+
+<div class="container-fluid" style="color: black" id="socialcontainer">
+  <center>
+    <h1>Contact Me</h1><br />
+    <a href="https://www.facebook.com/angadpreet.nagpal" class="social" id="facebook"><i class="fa fa-facebook sociallinks" id="fbicon"></i>&nbsp;&nbsp;Facebook</a>
+    <a href="https://github.com/angadp" class="social" id="github"><i class="fa fa-github sociallinks" id="ghicon"></i>&nbsp;&nbsp;Github</a>
+    <a href="https://www.linkedin.com/in/angadpreet-nagpal-021b029a/" class="social" id="linkedin"><i class="fa fa-linkedin sociallinks" id="liicon"></i>&nbsp;&nbsp;LinkedIn</a><br /><br />
+    <h3>Phone Number: 213-421-5732</h3>
+    <h3>Email Address: angadpreet.nagpal@gmail.com</h3>
+  </center>
+</div>
+
 <!-- Footer -->
 <footer class="container-fluid bg-4 text-center">
   <p>   &#9400; <a href="https://www.facebook.com/angadpreet.nagpal">Angadpreet Nagpal</a></p> 
 </footer>
 
 </body>
+<script type="text/javascript">
+  $("#facebook").hover(function()
+    {
+      $("#socialcontainer").css({'background-color':'#3B5998'});
+      $("#facebook").css({'color':'white','text-decoration':'none','border-color':'white'});
+      $("#fbicon").css({'color':'white'});
+    },function()
+    {
+      $("#socialcontainer").css({'background-color':'white'});
+      $("#facebook").css({'color':'black','border-color':'black'});
+      $("#fbicon").css({'color':'black'});
+    });
+  $("#github").hover(function()
+    {
+      $("#socialcontainer").css({'background-color':'#4078c0'});
+      $("#github").css({'color':'white','text-decoration':'none','border-color':'white'});
+      $("#ghicon").css({'color':'white'});
+    },function()
+    {
+      $("#socialcontainer").css({'background-color':'white'});
+      $("#github").css({'color':'black','border-color':'black'});
+      $("#ghicon").css({'color':'black'});
+    });
+  $("#linkedin").hover(function()
+    {
+      $("#socialcontainer").css({'background-color':'#0077b5'});
+      $("#linkedin").css({'color':'white','text-decoration':'none','border-color':'white'});
+      $("#liicon").css({'color':'white'});
+    },function()
+    {
+      $("#socialcontainer").css({'background-color':'white'});
+      $("#linkedin").css({'color':'black','border-color':'black'});
+      $("#liicon").css({'color':'black'});
+    });
+</script>
 </html>
