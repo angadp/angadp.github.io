@@ -76,10 +76,37 @@
   padding:10px;
   border-radius:5px;
 }
+#HeroCard
+{
+  color: black;
+  background-image: url('./img/hero.jpg');
+  background-position: center;
+  background-size:cover;
+}
 #Education
 {
   left:30%;
   width: 70%;
+  position:relative; 
+  margin-bottom:100px;
+}
+#EductionDiv
+{
+  color: black;
+  background-image: url('./img/education.jpg');
+  background-position: center;
+  background-size:cover;
+  font-family: 'Fredericka the Great', cursive;color:white;
+}
+#desktop
+{
+  color: black;
+  background-image: url('./img/desktop.jpg');
+  background-position: center;
+  background-size:cover;
+  color: white;
+  background-color: black;
+  height:auto;
 }
 @media (max-width: 800px) { 
     #card
@@ -91,10 +118,8 @@
       left:10%;
       width:90%;
     }
-    #desktop{
-      height: 500%;
-    }
 }
+
   </style>
 </head>
 <body>
@@ -121,6 +146,7 @@
     </div>
   </div>
 </nav>
+
 <a name="Who"></a>
 <br /><br />
 <!-- First Container -->
@@ -131,42 +157,35 @@
   <h3>An engineer currently pursuing Masters in Computer Science(Data Science) at USC.</h3><br />
 <br /><br />
 </div>
+
 <a name="Story"></a>
-<!-- Second Container -->
-<div class="parallax" style="background-image: url('./img/origin2.jpg');"></div>
-
-<div class="container-fluid" style="color: black;background-image: url('./img/hero.jpg');background-position: center;background-size:cover">
-
+<div class="parallax" style="background-image: url('./img/origin.jpg');"></div>
+<div class="container-fluid" id="HeroCard">
 <center><h1 style="color:white">My Story</h1></center><br />
   <div id="card">
-    
     <h4><b>Secret Identity:</b> <span style="color:red">Classified</span></h4>
-    
     <h4><b>Place of Birth:</b> Ludhiana, Punjab, India, Earth, Solar System, Milky Way Galaxy, Local Group, Virgo Supercluster, Universe</h4>
-    
     <h4><b>Birthday:</b> 5<sup>th</sup> August 1992</h4>
-    
     <h4><b>Powers/Abilities:</b>
       <ul style="display: block;">
         <li>Intelligent</li>
         <li>Creative</li>
       </ul>
     </h4>
-    
     <h4><b>Source of Power:</b> Fell in love with science field</h4>
   </div>
 </div>
 
 <a name="Edu"></a>
 <div class="parallax" style="background-image: url('./img/thapar.jpg');"></div>
-<div class="container-fluid" style="color: black;background-image: url('./img/education.jpg');background-position: center;background-size:cover;font-family: 'Fredericka the Great', cursive;color:white;">
+<div class="container-fluid" id="EductionDiv">
 <center><h1>Education</h1><br />
 <h4>BE Computer Science, Thapar University, Patiala</h4>
 <h4>CGPA 9.24/10</h4>
 <h4>June 2011-June 2015</h4>
 <h2>Academic Achievements</h2>
 </center>
-<div id="Education" style="position:relative; margin-bottom:100px"><ul>
+<div id="Education"><ul>
   <li>Awarded 1st position in the Intra-Thapar coding competition, Reverse Gear held during Chakravyuh’13.</li>
   <li>Placed 2nd in the inter college coding competition, Code Masters held during Inspirius’14.</li>
   <li>Represented Thapar University at National Programming Competition, NPL’13 and placed in top 10.</li>
@@ -175,9 +194,7 @@
 
 <a name="Work"></a>
 <div class="parallax" style="background-image: url('./img/microsoft.jpg');"></div>
-
-<!-- Third Container (Grid) -->
-<div class="container-fluid" style="color: black;background-image: url('./img/desktop2.jpg');background-position: center;background-size:cover;color: white;background-color: black;height:auto;" id="desktop">
+<div class="container-fluid" id="desktop">
   <div class="row">
   <div class="col-sm-9"style="background-color: white;color:black;margin:2%;border: 1px solid LightSkyBlue;position: relative;height:180px;">
 <div style="position: absolute;left:0px;"><img src="./img/paint.png" style="height:20px;"></div><div style="position: absolute;left:20px;"><h5>Work Ex</h5></div><div style="position: absolute;right:10px;"><h5>X</h5></div><div style="position: absolute;right:45px;top:-1px;"><h5>&#9633;</h5></div><div style="position: absolute;right:80px;"><h5>&minus;</h5></div>
@@ -234,8 +251,7 @@
 </div>
 
 <a name="Find"></a>
-<div class="parallax" style="background-image: url('./img/waldo4.jpg');"></div>
-
+<div class="parallax" style="background-image: url('./img/waldo.jpg');"></div>
 <!-- Footer -->
 <footer class="container-fluid bg-4 text-center">
   <p>   &#9400; <a href="https://www.facebook.com/angadpreet.nagpal">Angadpreet Nagpal</a></p> 
