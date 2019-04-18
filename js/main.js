@@ -31,3 +31,4 @@ $("#facebook").hover(function()
       $("#linkedin").css({'color':'black','border-color':'black'});
       $("#liicon").css({'color':'black'});
     });
+  setTimeout(function(){ $("html, body").animate({ scrollTop: 0 }, "slow"); }, 1000);
