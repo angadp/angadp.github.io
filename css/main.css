@@ -1,0 +1,237 @@
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  body, html {
+    height: 100%;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+      background-color: #1abc9c; /* Green */
+      color: #ffffff;
+  }
+  .bg-2 { 
+      
+  }
+  .bg-3 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  .bg-4 { 
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+      position:fixed;
+      top:0;
+      width:100%;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+  .parallax {
+    /* The image used */
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#card
+{
+  width:30%;
+  margin:0 auto;
+  font-family: 'Electrolize';
+  background-color:LightSkyBlue;
+  padding:10px;
+  border-radius:5px;
+}
+#HeroCard
+{
+  color: black;
+  background-image: url('../img/hero.jpg');
+  background-position: center;
+  background-size:cover;
+}
+#Education
+{
+  left:30%;
+  width: 70%;
+  position:relative; 
+  margin-bottom:100px;
+}
+#EductionDiv
+{
+  color: black;
+  background-image: url('../img/education.jpg');
+  background-position: center;
+  background-size:cover;
+  font-family: 'Fredericka the Great', cursive;color:white;
+}
+#desktop
+{
+  color: black;
+  background-image: url('../img/desktop.jpg');
+  background-position: center;
+  background-size:cover;
+  color: white;
+  background-color: black;
+  height:auto;
+}
+.sociallinks
+{
+  color:black;
+}
+.social
+{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 5px;
+  color:black;
+}
+#WindowPaint
+{
+  background-color: white;
+  color:black;
+  border: 1px solid LightSkyBlue;
+  position: relative;
+  height:180px;
+  margin-left: 2%;
+}
+#WindowNotepad
+{
+  background-color: white;
+  color:black;
+  margin:2%;
+  border: 1px solid LightSkyBlue;
+  position: relative;
+  height:650px;
+}
+.Paint
+{
+  border: 2px solid LightSkyBlue;
+  position: absolute;
+  top: 60px;
+  width: 100%;
+  height: 120px;
+  left:0px;
+  overflow: scroll;
+}
+.XSign
+{
+  position: absolute;
+  right:12px;
+  top:1px;
+}
+.MaximizeSign
+{
+  position: absolute;
+  right:45px;
+  top:-1px;
+}
+.MinimizeSign
+{
+  position: absolute;
+  right:80px;
+}
+.PaintMenu
+{
+  position: absolute;
+  top:20px;
+  left:0px;
+}
+.PaintFile
+{
+  background-color: #4169E1;
+  color:white;
+  padding:3px;
+  padding-left: 10px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 7px;
+}
+.PaintHome
+{
+  position: absolute;
+  top:30px;
+  left:50px;
+}
+.PaintView
+{
+  position: absolute;
+  top:30px;
+  left:100px;
+}
+.Notepad
+{
+  border: 2px solid LightSkyBlue;
+  position: absolute;
+  top: 60px;
+  width: 100%;
+  height: 590px;
+  left:0px;
+  overflow: scroll;
+}
+.NotepadFile
+{
+  position: absolute;
+  top:30px;
+  left:5px;
+}
+.NotepadEdit
+{
+  position: absolute;
+  top:30px;
+  left:40px;
+}
+.NotepadFormat
+{
+  position: absolute;
+  top:30px;
+  left:80px;
+}
+.NotepadView
+{
+  position: absolute;
+  top:30px;
+  left:140px;
+}
+.NotepadHelp
+{
+  position: absolute;
+  top:30px;
+  left:180px;
+}
+.NotepadTitle
+{
+  position: absolute;
+  left:20px;
+}
+@media (max-width: 800px) { 
+    #card
+    {
+      width:50%;
+    }
+    #Education
+    {
+      left:10%;
+      width:90%;
+    }
+}
