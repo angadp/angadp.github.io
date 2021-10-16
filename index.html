@@ -1,184 +1,62 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Angadpreet Nagpal</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <link href="https://fonts.googleapis.com/css?family=Electrolize" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="./css/main.css">
-</head>
+<html>
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bgimg {
+  background-image: url('https://www.w3schools.com/w3images/forestbridge.jpg');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+
+.topleft {
+  position: absolute;
+  top: 0;
+  left: 16px;
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 0;
+  left: 16px;
+}
+
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+hr {
+  margin: auto;
+  width: 40%;
+}
+</style>
 <body>
 
-<!-- Navbar -->
-<nav class="navbar navbar-default" style="z-index: 3">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
-      </button>
-      <a class="navbar-brand" href="#">Angadpreet Nagpal</a>
-    </div>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#Who">WHO</a></li>
-        <li><a href="#Edu">EDUCATION</a></li>
-        <li><a href="#Work">EXPERIENCE</a></li>
-        <li><a href="#Projects">PROJECTS</a></li>
-        <li><a href="#Find">FIND ME</a></li>
-      </ul>
-    </div>
+<div class="bgimg">
+  <div class="topleft">
+    <p>Logo</p>
   </div>
-</nav>
-
-<a name="Who"></a>
-<br /><br />
-<!-- First Container -->
-<div class="container-fluid bg-1 text-center">
-  <h3 class="margin">Who Am I?</h3><br />
-  <img src="./img/angad.jpg" class="img-responsive img-circle margin" style="display:inline" alt="My Pic" width="350" height="350"><br /><br />
-  <h3>Heavy Question but a Simple Answer.</h3>
-  <h3>An engineer with Masters in Computer Science(General) from USC.</h3><br />
-</div>
-
-<div class="parallax" style="background-image: url('./img/usc.jpg');"></div>
-<a name="Edu"></a>
-<div class="container-fluid" id="EductionDiv">
-<center><h2>Education</h2>
-<h4>MS Computer Science, University of Southern California, Los Angeles, CA</h4>
-<h4>GPA 3.33/4</h4>
-<h4>Aug 2017 - May 2019</h4>
-<h4>BE Computer Science, Thapar University, Patiala, PB</h4>
-<h4>CGPA 9.24/10</h4>
-<h4>June 2011 - June 2015</h4>
-<h2>Academic Achievements</h2>
-</center>
-<div id="Education"><ul>
-  <li>Awarded 1st position in the Intra-Thapar coding competition, Reverse Gear held during Chakravyuh’13.</li>
-  <li>Placed 2nd in the inter college coding competition, Code Masters held during Inspirius’14.</li>
-  <li>Represented Thapar University at National Programming Competition, NPL’13 and placed in top 10.</li>
-</ul></div>
-</div>
-
-<div class="parallax" style="background-image: url('./img/microsoft.jpg');"></div>
-<a name="Work"></a>
-<div class="container-fluid" id="desktop">
-  <div class="row">
-  
-  <!--Paint-->
-  <div class="col-sm-9" id="WindowPaint">
-    <div style="position: absolute;left:0px;">
-      <img src="./img/paint.png" style="height:20px;">
-    </div>
-    <div style="position: absolute;left:20px;">
-      <h5>Work Ex</h5>
-    </div>
-    <div class="XSign"><h5>X</h5></div><div class="MaximizeSign"><h5>&#9633;</h5></div><div class="MinimizeSign"><h5>&minus;</h5></div>
-    <div class="PaintMenu"><h6 class="PaintFile" ="">File</h6></div><div class="PaintHome"><h6>Home</h6></div><div class="PaintView"><h6>View</h6></div>
-    <div class="Paint">
-      <center><img src="./img/workex.png" style="height: 100px"></center>
-    </div>
+  <div class="middle">
+    <h1>COMING SOON</h1>
+    <hr>
+    <p>35 days left</p>
   </div>
-  
-  <!--Microsoft-->
-  <div class="col-sm-3" id="WindowNotepad">
-    <div style="position: absolute;left:0px;"><img src="./img/notepad_ico.png" style="height:20px;"></div><div class="NotepadTitle"><h5>Microsoft</h5></div>
-    <div class="XSign"><h5>X</h5></div><div class="MaximizeSign"><h5>&#9633;</h5></div><div class="MinimizeSign"><h5>&minus;</h5></div>
-    <div class="NotepadFile"><h5>File</h5></div><div class="NotepadEdit"><h5>Edit</h5></div><div class="NotepadFormat"><h5>Format</h5></div><div class="NotepadView"><h5>View</h5></div><div class="NotepadHelp"><h5>Help</h5></div>
-
-    <div class="Notepad">
-      <p>
-        Microsoft, Hyderabad, Telanagana
-      </p>
-      <p>
-        Software Developer
-      </p>
-      <p>June2015 - July2017</p>
-      <p>Worked as Service Engineer and Software Engineer in the Volume Licensing Division of Enterprise Commerce, a division which generated $40 billion dollars of business yearly.</p>
-      <p>Responsible for development, upkeep and maintenance of web portals for placing bulk orders for Microsoft products including Windows, Office and Azure offerings. Particularly, worked in the invoicing division, later merged with the Windows Store. Implemented and deployed unit test cases on Azure to ensure continuous deployment. Test cases also contained metrics for performance measurement.</p>
-      <p>Led the development of internal tools to reduce manual overload -</p>
-      <p><b>Certificate Management tool</b> for management and automatic renewal and deployment of Service certificates.</p>
-      <p><b>Business Continuity Disaster Recovery(BCDR) tool</b> for performing Disaster Recovery in case of outage. Took backup from primary, changed connection from primary to secondary site and performed backup recovery on the secondary site to ensure connectivity. Reduced the time for recovery from 20 minutes to 3 minutes for most services.</p>
-      <p>Analyzed sales records to create a model for calculating the discount to be given for additional sales to companies.</p>
-      <p>Prototyped mail prioritization plugin, trained on a dataset of more than 10,000 emails.</p>
-      <p>Exhibited Intelligent Bot at Microsoft Hackathon which answered user queries using Wikipedia as Knowledge Base</p>
-    </div>
-  </div>
-
-  <!--Freescale-->
-  <div class="col-sm-3" id="WindowNotepad">
-    <div style="position: absolute;left:0px;"><img src="./img/notepad_ico.png" style="height:20px;"></div><div class="NotepadTitle"><h5>Freescale Semiconductors</h5></div>
-    <div class="XSign"><h5>X</h5></div><div class="MaximizeSign"><h5>&#9633;</h5></div><div class="MinimizeSign"><h5>&minus;</h5></div>
-    <div class="NotepadFile"><h5>File</h5></div><div class="NotepadEdit"><h5>Edit</h5></div><div class="NotepadFormat"><h5>Format</h5></div><div class="NotepadView"><h5>View</h5></div><div class="NotepadHelp"><h5>Help</h5></div>
-
-    <div class="Notepad">
-      <p>Freescale Semiconductors, Noida, UP</p>
-      <p>Software Engineering Intern</p>
-      <p>Jan2015 - Jun2015</p>
-      <p>Worked on a low-level API - Network Application Development Kit (NADK), a set of libraries and drivers for fast packet processing.</p>
-      <p>Optimized the memory modules – memzone, memseg, mempool, etc to consume less space and run faster on our hardware. The goal was to achieve router speeds of 100 Gbps.</p>
-    </div>
-  </div>
-
-  <!--Winterrain-->
-  <div class="col-sm-3" id="WindowNotepad">
-    <div style="position: absolute;left:0px;"><img src="./img/notepad_ico.png" style="height:20px;"></div><div class="NotepadTitle"><h5>Winterrain Technologies</h5></div>
-    <div class="XSign"><h5>X</h5></div><div class="MaximizeSign"><h5>&#9633;</h5></div><div class="MinimizeSign"><h5>&minus;</h5></div>
-    <div class="NotepadFile"><h5>File</h5></div><div class="NotepadEdit"><h5>Edit</h5></div><div class="NotepadFormat"><h5>Format</h5></div><div class="NotepadView"><h5>View</h5></div><div class="NotepadHelp"><h5>Help</h5></div>
-    
-    <div class="Notepad">
-      <p>Winterrain Technologies, Ludhiana, Punjab</p>
-      <p>Full Stack Software Engineer</p>
-      <p>Aug 2014-Dec 2014</p>
-      <p>The project was for a US client, TechBank, a company that purchases old devices and sells them on Ebay. The solution was end to end, from price prediction at the booth based on device condition, to shipping to head office, to finally putting it on Ebay after confirmation that the device isn’t stolen.</p>
-      <p>Upon arrival of customer, the system would suggest a price based on previous buy/sell trend, device condition and other factors. Once bought, the system would print an invoice for the customer, print a label for shipping to head office and put the IMEI number on LeadsOnline to check for theft.</p>
-      <p>Once the 3-day freeze period from LeadsOnline ends, the device is put on Ebay for reselling using its API. If the device is too damaged, it would be sold for parts and for full price otherwise. Upon getting sold, the device is on its way. If it is not sold within the prescribed period, the price is lowered and put back on Ebay.</p>
-      <p>The system also generated audit reports for business optimization and fed back for price prediction.</p>
-    </div>
-  </div>
+  <div class="bottomleft">
+    <p>Some text</p>
   </div>
 </div>
-
-
-<div class="parallax" style="background-image: url('./img/Project.gif');"></div>
-<a name="Projects"></a>
-<div style="color: black;left:5px;">
-  <h1>WikiBot</h1>
-  <p>WikiBot tries to answer your questions using Wikipedia as knowledge base. To use the bot, try the following sentence.</p>
-  <p>tell me about gandhi</p>
-  <p>Now that the context is set for Mahatma Gandhi. You can now talk to the document. Try the following sentence now.</p>
-  <p>what were his views on marriage</p>
-  <p>To change the context to another person. Use the following</p>
-  <p>tell me about 'new topic/person'</p>
-  <p>To read the full docmentation, refer to the following document: <a href="https://github.com/angadp/Intelligent-Bot">https://github.com/angadp/Intelligent-Bot</a></p>
-  <p>PS This is a hackathon project, please be nice and don't try to break/hack it.</p>
-</div>
-
-<div class="parallax" style="background-image: url('./img/waldo.jpg');clear: both"></div>
-<a name="Find"></a>
-<div class="container-fluid" style="color: black" id="socialcontainer">
-  <center>
-    <h1>Contact Me</h1><br />
-    <a href="https://www.facebook.com/angadpreet.nagpal" class="social" id="facebook"><i class="fa fa-facebook sociallinks" id="fbicon"></i>&nbsp;&nbsp;Facebook</a>
-    <a href="https://github.com/angadp" class="social" id="github"><i class="fa fa-github sociallinks" id="ghicon"></i>&nbsp;&nbsp;Github</a>
-    <a href="https://www.linkedin.com/in/angadpreet-nagpal/" class="social" id="linkedin"><i class="fa fa-linkedin sociallinks" id="liicon"></i>&nbsp;&nbsp;LinkedIn</a><br /><br />
-    <h4>Phone Number: 213-421-5732</h4>
-    <h4>Email Address: <a href="mailto:angadpreet.nagpal@gmail.com">angadpreet.nagpal@gmail.com</a></h4>
-  </center>
-</div>
-
-<!-- Footer -->
-<footer class="container-fluid bg-4 text-center">
-  <p>   &#9400; <a href="https://www.facebook.com/angadpreet.nagpal">Angadpreet Nagpal</a></p> 
-</footer>
 
 </body>
-<script src="./js/main.js"></script>
 </html>
