@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.d24b3d06.css",
+    "main.js": "/developerFolio/static/js/main.67311f96.js",
+    "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.bcaf8dd9.chunk.js": "/developerFolio/static/js/64.bcaf8dd9.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.c671147b.chunk.js": "/developerFolio/static/js/769.c671147b.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/USC.jpg": "/developerFolio/static/media/USC.7fa93b134ce0db01752b.jpg",
+    "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/Zynga.png": "/developerFolio/static/media/Zynga.9da55abbc88ad5f381be.png",
+    "static/media/MNCP.jpeg": "/developerFolio/static/media/MNCP.6119f71c093e05e84558.jpeg",
+    "static/media/CCNA.png": "/developerFolio/static/media/CCNA.589b3ed599262e3bf072.png",
+    "static/media/Thapar.jpg": "/developerFolio/static/media/Thapar.c04209cdf32dbe0de7cd.jpg",
+    "static/media/amazon-logo.jpg": "/developerFolio/static/media/amazon-logo.05f73d23f4f3c9c43c31.jpg",
+    "static/media/skill.svg": "/developerFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/developerFolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/developerFolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/developerFolio/index.html",
+    "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.d24b3d06.css.map": "/developerFolio/static/css/main.d24b3d06.css.map",
+    "main.67311f96.js.map": "/developerFolio/static/js/main.67311f96.js.map",
+    "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.bcaf8dd9.chunk.js.map": "/developerFolio/static/js/64.bcaf8dd9.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.c671147b.chunk.js.map": "/developerFolio/static/js/769.c671147b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d24b3d06.css",
+    "static/js/main.67311f96.js"
+  ]
+}
