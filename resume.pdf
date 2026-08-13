@@ -1,0 +1,895 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 12895
+>>
+stream
+0.200025 w
+0 G
+BT
+/F10 17.1 Tf
+19.6649999999999991 TL
+0. g
+208.2735000000000127 762. Td
+(ANGADPREET NAGPAL) Tj
+ET
+BT
+/F9 7.41 Tf
+8.5214999999999996 TL
+0.235 g
+112.1173500000000161 741.6699999999999591 Td
+(nagangapal@gmail.com  •  7009577797  •  Bengaluru, KA, India  •  linkedin.com/in/angadpreet-nagpal/  •  github.com/nagangapal) Tj
+ET
+BT
+/F10 10.450000000000001 Tf
+12.0175000000000001 TL
+0. g
+30. 724.1235000000000355 Td
+(SUMMARY) Tj
+ET
+0.07 G
+0.9 w
+30. 719.4210000000000491 m
+582. 719.4210000000000491 l
+S
+BT
+/F9 8.74 Tf
+10.0510000000000002 TL
+0. g
+30. 708.9710000000000036 Td
+(Product-focused technology leader and MBA candidate at IIM Ahmedabad with 8+ years of experience architecting and scaling high-throughput distributed) Tj
+ET
+BT
+/F9 8.74 Tf
+10.0510000000000002 TL
+0. g
+30. 699.1821999999999662 Td
+(systems for search, relevance, and consumer-facing platforms. Proven track record of driving measurable business outcomes - 20% latency reduction, 99.95%) Tj
+ET
+BT
+/F9 8.74 Tf
+10.0510000000000002 TL
+0. g
+30. 689.3933999999999287 Td
+(uptime, and $40B business impact - while leading cross-functional teams across e-commerce, enterprise software, and gaming.) Tj
+ET
+BT
+/F10 10.450000000000001 Tf
+12.0175000000000001 TL
+0. g
+30. 671.5295999999999594 Td
+(EXPERIENCE) Tj
+ET
+0.07 G
+0.9 w
+30. 666.8270999999999731 m
+582. 666.8270999999999731 l
+S
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 656.3770999999999276 Td
+(Flipkart, Bengaluru, KA, IN — SDE 3) Tj
+ET
+BT
+/F9 7.6000000000000005 Tf
+8.7400000000000002 TL
+0.353 g
+523.2519999999999527 656.3770999999999276 Td
+(Nov 2024 - Present) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 645.7371000000000549 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 645.7371000000000549 Td
+(Cross-collaborated with product, design, and business teams to launch Flipkart Grocery on the Shopsy app, successfully expanding) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 634.7170999999999594 Td
+(high-quality grocery accessibility to Tier-2 and Tier-3 cities.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 623.6970999999999776 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 623.6970999999999776 Td
+(Architected high-throughput search and pricing pipelines serving 10M+ daily active shoppers, applying SOLID design principles, strict API) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 612.6770999999999958 Td
+(contract design, and automated retry throttles to cut data ingestion latency by 20% while strengthening cross-service observability.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 601.6570999999999003 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 601.6570999999999003 Td
+(Owned reliability of a tier-1 core shopping service, maintaining 99.95% uptime during peak traffic and reducing MTTR through proactive) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 590.6370999999999185 Td
+(monitoring and alerting to protect the customer experience.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 579.6170999999999367 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 579.6170999999999367 Td
+(Launched and trained production ranker models utilizing advanced feature engineering to optimize search relevance, resulting in a 15%) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 568.5970999999999549 Td
+(increase in search accuracy and an 8% lift in checkout conversion rates.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 557.5770999999999731 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 557.5770999999999731 Td
+(Integrated an LLM into the production search path to generate real-time query suggestions, enriching search intent signals while keeping) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 546.5570999999998776 Td
+(latency overhead under 5ms across 10M+ daily active shoppers.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 535.5370999999998958 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 535.5370999999998958 Td
+(Mentored and coached 4 mid-level engineers, guiding them on system design patterns, coding standards, and project ownership to accelerate) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 524.517099999999914 Td
+(their promotion to the next technical level.) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 509.6970999999999208 Td
+(Amazon, Bengaluru, KA, IN — SDE 2) Tj
+ET
+BT
+/F9 7.6000000000000005 Tf
+8.7400000000000002 TL
+0.353 g
+515.3479999999999563 509.6970999999999208 Td
+(Aug 2021 - Nov 2024) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 499.0570999999999344 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 499.0570999999999344 Td
+(Shipped semantic search using the Lucene KNN algorithm to surface relevant products across all Amazon locales, improving search) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 488.0370999999999526 Td
+(relevance and click-through rates by 20% for buyers.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 477.0170999999999708 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 477.0170999999999708 Td
+(Developed and deployed search solutions for the Product Search division, built directly on Apache Lucene.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 465.997099999999989 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 465.997099999999989 Td
+(Launched Video Search as part of a US market initiative, surfacing relevant video results in a dedicated tab alongside product results.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 454.9771000000000072 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 454.9771000000000072 Td
+(Created a query-replay-based solution for hyper-parameter optimization of Machine Learning algorithms, tuning relevance models across) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 443.9571000000000254 Td
+(seven global marketplaces.) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 429.1371000000000322 Td
+(M56 Studios \(Creative Labs, CAA\), Bengaluru, KA, IN — Senior Software Engineer) Tj
+ET
+BT
+/F9 7.6000000000000005 Tf
+8.7400000000000002 TL
+0.353 g
+517.4759999999999991 429.1371000000000322 Td
+(Oct 2020 - Aug 2021) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 418.4971000000000458 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 418.4971000000000458 Td
+(Led product development of a consumer React Native app, lifting user engagement by 30% through iterative product improvements.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 407.477100000000064 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 407.477100000000064 Td
+(Built custom SVG visualizations and Express-backed APIs, improving frontend performance by 30% to strengthen user retention.) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 392.6571000000000708 Td
+(Zynga Games, Bengaluru, KA, IN — Software Engineer) Tj
+ET
+BT
+/F9 7.6000000000000005 Tf
+8.7400000000000002 TL
+0.353 g
+517.9320000000000164 392.6571000000000708 Td
+(Mar 2020 - Oct 2020) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 382.0171000000000845 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 382.0171000000000845 Td
+(Shipped core game levels for Willy Wonka Slots, contributing to a 4.2 Google Play rating and 1M+ installs.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 370.9971000000001027 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 370.9971000000001027 Td
+(Ran A/B and EOS experiments on feature variants, using player data to increase gameplay retention.) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 356.1771000000001095 Td
+(Microsoft, Hyderabad, TL, IN — Software Engineer) Tj
+ET
+BT
+/F9 7.6000000000000005 Tf
+8.7400000000000002 TL
+0.353 g
+520.3640000000000327 356.1771000000001095 Td
+(Jun 2015 - Jun 2017) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 345.5371000000001231 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 345.5371000000001231 Td
+(Architected scalable microservices for a $40B volume licensing business, accelerating billing workflows and improving the licensing) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 334.5171000000001413 Td
+(customer experience.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 323.4971000000001595 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 323.4971000000001595 Td
+(Delivered automation for certificate management and BCDR, saving ~20 engineering hours weekly and reducing operational risk.) Tj
+ET
+BT
+/F10 10.450000000000001 Tf
+12.0175000000000001 TL
+0. g
+30. 303.9271000000001663 Td
+(EDUCATION) Tj
+ET
+0.07 G
+0.9 w
+30. 299.22460000000018 m
+582. 299.22460000000018 l
+S
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 288.7746000000001914 Td
+(Indian Institutes of Management — Master of Business Administration \(Blended\)) Tj
+ET
+BT
+/F9 7.6000000000000005 Tf
+8.7400000000000002 TL
+0.353 g
+545.29200000000003 288.7746000000001914 Td
+(2024 - 2026) Tj
+ET
+BT
+/F10 7.41 Tf
+8.5214999999999996 TL
+0.235 g
+30. 278.134600000000205 Td
+(GPA: 3.42) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 267.1754000000001952 Td
+(University of Southern California — Master of Science \(Computer Science\)) Tj
+ET
+BT
+/F9 7.6000000000000005 Tf
+8.7400000000000002 TL
+0.353 g
+545.29200000000003 267.1754000000001952 Td
+(2017 - 2019) Tj
+ET
+BT
+/F10 7.41 Tf
+8.5214999999999996 TL
+0.235 g
+30. 256.5354000000002088 Td
+(GPA: 3.43) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 245.576200000000199 Td
+(Thapar Institute of Engineering and Technology — Bachelor of Engineering \(Computer Science\)) Tj
+ET
+BT
+/F9 7.6000000000000005 Tf
+8.7400000000000002 TL
+0.353 g
+545.29200000000003 245.576200000000199 Td
+(2011 - 2015) Tj
+ET
+BT
+/F10 7.41 Tf
+8.5214999999999996 TL
+0.235 g
+30. 234.9362000000002126 Td
+(GPA: 9.24) Tj
+ET
+BT
+/F10 10.450000000000001 Tf
+12.0175000000000001 TL
+0. g
+30. 219.2270000000002028 Td
+(PROJECTS) Tj
+ET
+0.07 G
+0.9 w
+30. 214.5245000000002165 m
+582. 214.5245000000002165 l
+S
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 204.074500000000171 Td
+(ColorsMultiplayer — Flutter) Tj
+ET
+BT
+/F11 8.36 Tf
+9.613999999999999 TL
+0.235 g
+30. 193.4345000000001846 Td
+(Designed and built a Flutter mobile game for turn-based, Candy Crush-style play against an AI opponent, owning product concept, game logic, scoring, and UI.) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+32. 184.0713000000001784 Td
+(•) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+46. 184.0713000000001784 Td
+(Shipped an in-game hint system that guides players during matches, improving usability and player engagement.) Tj
+ET
+BT
+/F10 10.450000000000001 Tf
+12.0175000000000001 TL
+0. g
+30. 165.6413000000002285 Td
+(SKILLS) Tj
+ET
+0.07 G
+0.9 w
+30. 160.9388000000002421 m
+582. 160.9388000000002421 l
+S
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 150.4888000000001966 Td
+(Product & Business: ) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+115.3100000000000023 150.4888000000001966 Td
+(Technical Leadership, Cross-functional collaboration, Stakeholder management, Problem solving, Process) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 139.8488000000002103 Td
+(improvement, Execution, Analytics) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 128.0688000000002376 Td
+(Frontend & Mobile: ) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+114.2650000000000148 128.0688000000002376 Td
+(React, React Native, Kotlin, Android, Swift, Flutter, HTML, CSS, Angular) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 116.2888000000002648 Td
+(Languages: ) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+79.1150000000000091 116.2888000000002648 Td
+(Python, C#, Java, JavaScript, Scala, PHP) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 104.5088000000002921 Td
+(Cloud & Infrastructure: ) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+130.9849999999999852 104.5088000000002921 Td
+(Kafka, Docker, Kubernetes, Redis, AWS Lambda, Azure Functions, AWS S3, EC2, SNS, Google Cloud Services,) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 93.8688000000003058 Td
+(Microservices, CI/CD, RabbitMQ) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 82.0888000000003331 Td
+(Data & Search: ) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+95.3600000000000136 82.0888000000003331 Td
+(Apache Lucene, Microsoft SQL Server, MongoDB, PostgreSQL, Elasticsearch) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 70.3088000000003603 Td
+(Backend & Frameworks: ) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+134.6900000000000261 70.3088000000003603 Td
+(REST APIs, Express) Tj
+ET
+BT
+/F10 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 58.5288000000003876 Td
+(Other: ) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+59.6400000000000006 58.5288000000003876 Td
+(System Design, Distributed Systems, Software Architecture, Observability, Performance Optimization, Reliability Engineering,) Tj
+ET
+BT
+/F9 9.5 Tf
+10.9249999999999989 TL
+0. g
+30. 47.8888000000004013 Td
+(Scalability, Design Patterns) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 3.0.3)
+/CreationDate (D:20260813161844+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000013068 00000 n 
+0000014885 00000 n 
+0000000015 00000 n 
+0000000120 00000 n 
+0000013125 00000 n 
+0000013250 00000 n 
+0000013380 00000 n 
+0000013513 00000 n 
+0000013650 00000 n 
+0000013773 00000 n 
+0000013902 00000 n 
+0000014034 00000 n 
+0000014170 00000 n 
+0000014298 00000 n 
+0000014425 00000 n 
+0000014554 00000 n 
+0000014687 00000 n 
+0000014789 00000 n 
+0000015133 00000 n 
+0000015219 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <DC96432DAD466465CAF4F83F789F8388> <DC96432DAD466465CAF4F83F789F8388> ]
+>>
+startxref
+15323
+%%EOF
