@@ -1,1 +1,14 @@
-{}
+{
+  "data": {
+    "user": {
+      "name": "Angadpreet Nagpal",
+      "bio": "Staff Software Engineer at Flipkart",
+      "avatarUrl": "https://angadp.github.io/android-chrome-384x384.png",
+      "location": "Bengaluru, India",
+      "pinnedItems": {
+        "totalCount": 0,
+        "edges": []
+      }
+    }
+  }
+}
